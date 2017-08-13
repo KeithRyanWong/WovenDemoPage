@@ -1,0 +1,25 @@
+header{
+  height: 10vh;
+  min-height: 70px;
+}
+
+.carouselContainer {
+  height: 80vh;
+}
+
+.mainContainer {
+  height: 80vh;
+  padding-left: 15%;
+  padding-right: 15%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: no-wrap;
+  justify-content: space-around;
+
+  align-items: center;
+}
+
+footer {
+  height: 10vh;
+  min-height: 80px;
+}
